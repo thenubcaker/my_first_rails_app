@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+===============
+
+Hello, I am adding this bit to test some Git commands.
